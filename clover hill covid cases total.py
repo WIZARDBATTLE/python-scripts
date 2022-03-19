@@ -1,3 +1,10 @@
+
+
+# PROGRAM NO LONGER FUNCTIONAL
+# The county took down the site tracking COVID cases
+# 3/18/2022
+
+
 import requests
 import bs4
 import pandas as pd
