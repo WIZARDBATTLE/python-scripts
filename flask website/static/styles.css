@@ -1,0 +1,100 @@
+body {
+    background-color: #712B75;
+    margin: 0px;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+}
+a {
+    color: #11999E;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+    font-size: 125%;
+    margin: 25px
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 7px;
+    width: 20%;
+}
+button{
+    border: 0px;
+}
+
+h1 {
+    color: #46244C;
+    font-family: 'Lobster', cursive;
+    font-size: 400%;
+    line-height:
+    margin: 50px auto 0px auto;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 250%;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    color: #C74B50;
+}
+
+
+.topDiv{
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+.middleDiv{
+    background-color: #712B75;
+}
+.skillRow{
+    left: 50%;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+.codeImg{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.chiliImg{
+    float: right;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.bottomDiv{
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #C74B50;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 25px auto 50px auto
+}
+
+.btn:hover {
+  background: #46244C;
+  text-decoration: none;
+}
+
+.topCloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
